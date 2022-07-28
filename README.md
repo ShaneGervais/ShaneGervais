@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShaneGervais
-- 👀 I’m interested in Chemistry, Physics and IT
+- 👀 I’m interested in Astrophysics, Cosmology, Numerical Relativity and Spectroscopy.
 - 🌱 I’m currently learning C++ and SQL with MariaDB
 - 💞️ I’m looking to collaborate on many various programming project but specifically scientific
 - 📫 How to reach me may reach me by email: shanegervais16@gmail.com
