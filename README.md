@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShaneGervais
-- 👀 I’m interested in Quantum optics, Astrophysics and Cosmology.
+- 👀 I’m interested in Quantum optics, Quantum information and Computational physics
 - 🌱 I’m currently a masters student working on weakly measuring the quantum state of polarized light.
 - 💞️ I’m looking to collaborate on many various scientific research projects.
 - 📫 How to reach me may reach me by email: shanegervais16@gmail.com
