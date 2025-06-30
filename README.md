@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShaneGervais
-- 👀 I’m interested in Quantum optics, Quantum information and Computational physics
+- 👀 I’m interested in Quantum Optics, Quantum Information/Cryptography, Nuclear/Particle physics, Nuclear Astrophysics and Computational physics
 - 🌱 I’m currently a masters student working on characterizing polarisation states using weak measurement procedures
 - 💞️ I’m looking to collaborate on various scientific research projects.
 - 📫 How to reach me may reach me by email. Personal: shanegervais16@gmail.com ; University: esg4256@umoncton.ca
