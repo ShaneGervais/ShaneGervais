@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum optics, Quantum information and Computational physics
 - 🌱 I’m currently a masters student working on characterizing polarisation states using weak measurement procedures
 - 💞️ I’m looking to collaborate on various scientific research projects.
-- 📫 How to reach me may reach me by email: shanegervais16@gmail.com
+- 📫 How to reach me may reach me by email. Personal: shanegervais16@gmail.com ; University: esg4256@umoncton.ca
 
 <!---
 ShaneGervais/ShaneGervais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
