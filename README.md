@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneGervais&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=blueberry" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneGervais&layout=compact&langs_count=10&hide=Jupyter%20Notebook&hide=Latex&theme=blueberry" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanegervais&show_icons=true&locale=en&theme=blueberry" alt="shanegervais" /></p>
 
