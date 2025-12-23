@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShaneGervais
-- 👀 I’m interested in Nuclear astrophysics, Particle physics, Quantum physics and Computational physics
+- 👀 I’m interested in Nuclear Astrophysics, Particle physics, Quantum physics and Computational physics
 - 🌱 I’m currently a masters graduate, awaiting for a PhD position.
 - 💞️ I’m looking to collaborate on various scientific research projects.
 - 📫 How to reach me may reach me by email. Personal: shanegervais16@gmail.com ; University: esg4256@umoncton.ca; other: shane.gervais@smu.ca
