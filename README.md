@@ -29,7 +29,7 @@ I’m interested in collaborating on various scientific research and development
 ---
 
 ## 📫 Contact
-- **Personal:** shanegervais16@gmail.com  
+- **Personal:** ShaneGervais16@gmail.com  
 - **University (Moncton):** esg4256@umoncton.ca  
 - **University (SMU):** shane.gervais@smu.ca
   
@@ -39,13 +39,13 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/shanegervais" target="_blank">
+  <a href="https://linkedin.com/in/ShaneGervais" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
   </a>
   <a href="https://stackoverflow.com/users/20285962/shane-gervais" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="35"/>
   </a>
-  <a href="https://kaggle.com/shanegervais" target="_blank">
+  <a href="https://kaggle.com/ShaneGervais" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35"/>
   </a>
 </p>
