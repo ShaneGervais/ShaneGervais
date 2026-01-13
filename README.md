@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p>
-  <img src="https://ghstats.vercel.app/api/top-langs/?username=ShaneGervais&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Tex&theme=blueberry" />
+  <img src="https://ghstats.vercel.app/api/top-langs/?username=ShaneGervais&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Tex,AMPL&theme=blueberry" />
 </p>
 
 <p>
