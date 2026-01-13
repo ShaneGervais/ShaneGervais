@@ -70,12 +70,13 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneGervais&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Tex&theme=blueberry"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneGervais&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Tex&theme=blueberry&cache_seconds=86400&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaneGervais&show_icons=true&theme=blueberry"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaneGervais&show_icons=true&theme=blueberry&cache_seconds=86400&hide_border=true" />
 </p>
+
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaneGervais&theme=blueberry"/>
