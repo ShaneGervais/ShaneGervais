@@ -14,7 +14,7 @@
 ---
 
 ## 🧪 Selected Projects
-- **Nuclear Reaction Network Simulator** – Python / Fortran
+- **Nuclear Reaction Rate Sensitivity** – Julia / Fortran
 - **Quantum Weak Measurement Analysis** – MATLAB / Python
 - **Astrophysical Rate Calculations** – C++ / Python
 
@@ -62,8 +62,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/>
 </p>
 
 ---
