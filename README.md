@@ -1,36 +1,31 @@
 # 👋 Hi, I’m Shane Gervais
-- 🎓 **Predoctoral student**  
-- 🔬 **Aspiring PhD researcher in Nuclear Astrophysics**  
-- 💻 **Scientific Computing & Data Analysis**
+- 🎓 **A Predoctoral student at Saint Mary's University**  
+- 🔬 **Aspiring to be a science researcher in Nuclear Astrophysics and related fields**  
+- 💻 **Key skills are Scientific Computing, Project Management and Data Analysis**
 
 ---
 
-## 🔭 Research Interests
-- Nuclear Astrophysics & Nuclear Reactions
-- Particle & Quantum Physics
+## 🔭 Area's of Research Interests
+- Nuclear Astrophysics
+- Particle Astrophysics
 - Computational Physics
-- Scientific Data Analysis & Simulation
 
 ---
 
-## 🧪 Selected Projects
-- **Nuclear Reaction Rate Sensitivity** – Julia / Fortran
-- **Quantum Weak Measurement Analysis** – MATLAB / Python
-- **Astrophysical Rate Calculations** – C++ / Python
+## 🤝 Looking to Collaborate with Fellow Researchers in
+- Nuclear Reaction Rate Evaluations in Explosive Stellar Events
+- Hydrodynamic Modeling for Accreting Plasma
+- Particle contribution Simulations in High Energy Environments
 
 ---
 
-## 🤝 Collaboration
-I’m interested in collaborating on various scientific research and development projects:
-- Nuclear / particle physics simulations  
-- Reaction-rate modeling & astrophysical networks  
-- Data analysis pipelines (Python / C++ / Fortran / MATLAB)
+## 🧪 Current Working Project
+- **Nuclear Reaction Rate Sensitivity Evaluation in Nova**
 
 ---
 
 ## 📫 Contact
 - **Personal:** ShaneGervais16@gmail.com  
-- **University (Moncton):** esg4256@umoncton.ca  
 - **University (SMU):** shane.gervais@smu.ca
   
 <!---
@@ -62,7 +57,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/>
 </p>
 
