@@ -12,7 +12,7 @@
 
 ---
 
-## 🤝 I am looking to Collaborate with Fellow Researchers in projects
+## 🤝 I am looking to Collaborate with Fellow Researchers in projects like:
 - Nuclear Reaction Rate Evaluations in Explosive Stellar Events
 - Hydrodynamic Modeling for Accreting Plasma
 - Particle contribution Simulations in High Energy Environments
