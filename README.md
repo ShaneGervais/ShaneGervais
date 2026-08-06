@@ -1,38 +1,39 @@
-# 👋 Hi, I’m Shane Gervais
-- 🎓 **A Predoctoral student at Saint Mary's University**  
-- 🔬 **Aspiring to be a science researcher in Nuclear Astrophysics and related fields**  
-- 💻 **Key skills are Scientific Computing, Project Management and Data Analysis**
+# 👋 Hi, my name is Shane
+- 🎓 **I am a Predoctoral student at Saint Mary's University**  
+- 🔬 **I am aspiring to be a science research scientist**  
+- 💻 **My skills include Scientific Computing, Project Management and Data Analysis**
 
 ---
 
-## 🔭 Area's of Research Interests
+## 🔭 My area's of interests are:
 - Nuclear Astrophysics
 - Particle Astrophysics
-- Computational Physics
+- Quantum Physics
 
 ---
 
-## 🤝 Looking to Collaborate with Fellow Researchers in
+## 🤝 I am looking to Collaborate with Fellow Researchers in projects
 - Nuclear Reaction Rate Evaluations in Explosive Stellar Events
 - Hydrodynamic Modeling for Accreting Plasma
 - Particle contribution Simulations in High Energy Environments
+- Particle messengers
 
 ---
 
 ## 🧪 Current Working Project
-- **Nuclear Reaction Rate Sensitivity Evaluation in Nova**
+- **Nuclear Reaction Rate Sensitivity Evaluation for Nova Nucleosynthesis**
+- **Particle Messengers in Stellar Nova**
+- **Thermonuclear Post-Processing Network: ReacNet + nuppn**
 
 ---
 
-## 📫 Contact
-- **Personal:** ShaneGervais16@gmail.com  
-- **University (SMU):** shane.gervais@smu.ca
+## 📫 You can Contact me via email: shane.gervais@smu.ca
   
 <!---
 ShaneGervais/ShaneGervais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🌐 Connect with Me
+## 🌐 You can Connect with Me via:
 <p align="left">
   <a href="https://linkedin.com/in/ShaneGervais" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
