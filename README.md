@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Shane
 - 🎓 **I am a Predoctoral student at Saint Mary's University**  
-- 🔬 **I am aspiring to be a science research scientist**  
+- 🔬 **I am aspiring to be a research scientist**  
 - 💻 **My skills include Scientific Computing, Project Management and Data Analysis**
 
 ---
