@@ -20,7 +20,7 @@
 
 ---
 
-## 🧪 Current Working Project
+## 🧪 I'm current working on:
 - **Nuclear Reaction Rate Sensitivity Evaluation for Nova Nucleosynthesis**
 - **Particle Messengers in Stellar Nova**
 - **Thermonuclear Post-Processing Network: ReacNet + nuppn**
