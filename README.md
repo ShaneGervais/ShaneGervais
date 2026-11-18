@@ -7,23 +7,26 @@
 
 ## 🔭 My area's of interests are:
 - Nuclear Astrophysics
+- Astrochemistry
+- Cosmochemistry
 - Particle Astrophysics
 - Quantum Physics
 
 ---
 
-## 🤝 I am looking to Collaborate in projects similar to:
+## 🤝 I am looking to Collaborate in projects related to:
 - Nuclear Reaction Rate Evaluations in Explosive Stellar Events
-- Hydrodynamic Modeling for Accreting Plasma
-- Particle contribution Simulations in High Energy Environments
-- Particle messengers
+- Particle shock accelerations dynamics related to nucleosynthesis
+- Presolar grain and dust formations from explosive environmental ejecta
+- Molecular dynamic applications with machine learning
+- Quantum optical analysis measurements 
 
 ---
 
 ## 🧪 I'm current working on:
 - **Nuclear Reaction Rate Sensitivity Evaluation for Nova Nucleosynthesis**
-- **Particle Messengers in Stellar Nova**
-- **Thermonuclear Post-Processing Network: ReacNet + nuppn**
+- **Presolar grain and molecular dust formation from nova: KROME + UMIST**
+- **Thermonuclear Post-Processing Network development for the NuGrid Collaboration**
 
 ---
 
